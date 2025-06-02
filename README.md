@@ -1,7 +1,7 @@
 # bda-modulo-3-evaluacion-final-xcgrisales
 bda-modulo-3-evaluacion-final-xcgrisales created by GitHub Classroom
 
-# Ejercicio de Evaluación - Módulo 3
+Ejercicio de Evaluación - Módulo 3
 Este repositorio consiste en la resolución del ejercicio de evaluación del módulo 3. 
 
 El objetivo es aplicar los conocimientos obtenidos a lo largo del módulo tres para resolver una serie de ejercicios.
