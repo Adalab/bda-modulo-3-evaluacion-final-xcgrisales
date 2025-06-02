@@ -2,21 +2,19 @@
 bda-modulo-3-evaluacion-final-xcgrisales created by GitHub Classroom
 
 # Ejercicio de Evaluación - Módulo 3
-Resolución del ejercicio de evaluación del módulo 3
+Este repositorio consiste en la resolución del ejercicio de evaluación del módulo 3. 
 
-## Objetivo
-Aplicar los conocimientos obtenidos a lo largo del módulo tres para resolver una serie de ejercicios
+El objetivo es aplicar los conocimientos obtenidos a lo largo del módulo tres para resolver una serie de ejercicios.
 
-## Contenido
+El ejercicio está dividido en diferentes partes: 
 - Fase 1: Exploración y limpieza de datos
 - Fase 2: Visualización
 - Fase 3 (BONUS): Preparación para análisis estadístico
 
-## Tecnologías utilizadas
+para poder resolver el ejercicios he utilizado las siguientes tecnologías:
 - Python
 - Pandas
 - Matplotlib
 - Seaborn
 
-## Notas
 El ejercicio está resuelto en un Jupyter Notebook dividido en las fases anteriormente mencionadas
