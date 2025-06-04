@@ -18,4 +18,4 @@ para poder resolver el ejercicios he utilizado las siguientes tecnologías:
 - Matplotlib
 - Seaborn
 
-El ejercicio está resuelto en un Jupyter Notebook dividido en las fases anteriormente mencionadas
+El ejercicio está resuelto en un Jupyter Notebook dividido en las fases anteriormente mencionadas.
